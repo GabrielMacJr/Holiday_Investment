@@ -4,11 +4,13 @@ Analyze ecommerce data to help the stakeholder determine the marketing budget.
 Stakeholder Question: The marketing budget is being set for next year. We would like to know the holiday 
 that brings in the most revenue. Please complete this task by the end of day tomorrow. The ecommerce sales data is provided.
 *Ecommerce Data for December is not provided.
+
 # Datasets
 <ol>
   <li><b>Ecommerce Dataset</b>: Will use the dates of sale, quantities and prices of items sold.</li>
   <li><b>U.S. Holiday Dates Dataset</b>: Will use dates and names of U.S. Holidays</li>
 </ol>
+
 # Cleaning and Organizing Data
 <h3>The following was done on Excel and Power Query Editor:</h3>
 <h4>Joining the Ecommerce Dataset and Holiday Dates Dataset</h4>
