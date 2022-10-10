@@ -17,8 +17,6 @@ that brings in the most revenue. Please complete this task by the end of day tom
 <ul>
   <li>Change date format to month/day/year (mm/dd/yyyy) and remove the time (hh:mm:ss) from the Holiday Ecommerce dataset</li>
   <li>Merge the Ecommerce Dataset and the U.S. Holiday Dates Dataset by using a Left Outer Join (Also known as a left inclusive join or left join) </li>
-  <li>Change date format to month/day/year (mm/dd/yyyy) and remove the time (hh:mm:ss) from the Holiday Ecommerce dataset</li>
-  <li>Merge the Ecommerce Dataset and the U.S. Holiday Dates Dataset by using a Left Outer Join (Also known as a left inclusive join or left join) </li>
 </ul>  
 
 &emsp;&emsp;![LeftJoin](https://user-images.githubusercontent.com/110753469/194694889-38b5391a-f5cc-4570-93c6-7f7018d9363b.PNG)
