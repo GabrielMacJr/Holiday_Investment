@@ -34,8 +34,11 @@ that brings in the most revenue. Please complete this task by the end of day tom
 </ul>
 
 &emsp;&emsp; ![PivotTable-AveRevQuantHoliday](https://user-images.githubusercontent.com/110753469/194737459-50c55170-4eee-483c-8198-0ec4c5ba882f.png)
+
 <h3>Pivot Table</h3>
+
 &emsp;&emsp; ![ExcelVisual-AveRevQuantHolidays](https://user-images.githubusercontent.com/110753469/194737855-fadcdf61-b294-43af-b349-8f15f71d882c.PNG)
+
 # Analysis and Recommendation
 <ul>
   <li><b>Analysis</b>: The analysis shows that Thanksgiving Eve has the largest average revenue and item quantity sold when compared to the rest of the holidays.</li>
