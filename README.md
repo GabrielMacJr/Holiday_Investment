@@ -1,7 +1,8 @@
 # Holiday Investment Analysis Assignment
 Analyze ecommerce data to help the stakeholder determine the marketing budget.
+
 # Assignment
-Stakeholder Question: The marketing budget is being set for next year. We would like to know the holiday 
+<b>Stakeholder Question</b>: The marketing budget is being set for next year. We would like to know the holiday 
 that brings in the most revenue. Please complete this task by the end of day tomorrow. The ecommerce sales data is provided.
 *Ecommerce Data for December is not provided.
 
