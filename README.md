@@ -42,5 +42,5 @@ that brings in the most revenue. Please complete this task by the end of day tom
 # Analysis and Recommendation
 <ul>
   <li><b>Analysis</b>: The analysis shows that Thanksgiving Eve has the largest average revenue and item quantity sold when compared to the rest of the holidays.</li>
-  <li><b>Recommendation</b>: Dedicating a larger portion of the marketing budget during the lead up this holiday may produce higher revenue during this period.</li>
+  <li><b>Recommendation</b>: Dedicating a larger portion of the marketing budget during the lead up to Thanksgiving Eve may produce higher revenue during this period.</li>
 <ul>
