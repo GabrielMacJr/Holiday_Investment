@@ -4,7 +4,7 @@ Analyze ecommerce data to help the stakeholder determine the marketing budget.
 # Assignment
 <b>Stakeholder Question</b>: The marketing budget is being set for next year. We would like to know the holiday 
 that brings in the most revenue. Please complete this task by the end of day tomorrow. The ecommerce sales data is provided.
-<br><b>*Ecommerce data for December is not provided.*</b></br>
+<br><b><i>Ecommerce data for December is not provided.</i></b></br>
 
 # Datasets
 <ol>
