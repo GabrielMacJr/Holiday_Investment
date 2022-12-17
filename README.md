@@ -1,4 +1,11 @@
 # Holiday Investment Analysis Assignment
+
+<p align = "center">
+<img width = 650px height = 450px src = "https://user-images.githubusercontent.com/110753469/208226089-f8d655f8-9136-447d-b7bf-7d25e8aa5df1.png">
+</p>
+
+
+
 Analyze ecommerce data to help the stakeholder determine the marketing budget.
 
 # Assignment
