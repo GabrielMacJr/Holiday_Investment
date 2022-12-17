@@ -1,14 +1,13 @@
-# Holiday Investment Analysis Assignment
+# Holiday Analysis Assignment
 
 <p align = "center">
 <img width = 650px height = 450px src = "https://user-images.githubusercontent.com/110753469/208226089-f8d655f8-9136-447d-b7bf-7d25e8aa5df1.png">
 </p>
 
-
-
+# Objective
 Analyze ecommerce data to help the stakeholder determine the marketing budget.
 
-# Assignment
+# Stakeholder Assignment
 <b>Stakeholder Question</b>: The marketing budget is being set for next year. We would like to know the holiday 
 that brings in the most revenue. Please complete this task by the end of day tomorrow. The ecommerce sales data is provided.
 <br><b><i>Ecommerce data for December is not provided.</i></b></br>
